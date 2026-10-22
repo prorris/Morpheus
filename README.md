@@ -60,6 +60,11 @@ not match.
 Use of Morpheus is governed by the [Licence Terms](TERMS.md). By creating an
 account you accept them.
 
+## More about Morpheus
+
+How Morpheus works, how it was evaluated, and the publications behind it:
+**[clinicalminer.com/morpheus](https://clinicalminer.com/morpheus.html)**
+
 ## Contact
 
 info@clinicalminer.com
